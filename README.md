@@ -9,3 +9,4 @@
 | Day 5 | Product Review Crawler App Day 1 | [Link](https://github.com/VishwasMore/ReviewCrawlerApp)
 | Day 6 | Product Review Crawler App Day 2 | [Link](https://github.com/VishwasMore/ReviewCrawlerApp)
 | Day 7 | Scientific Computing With Python (freeCodeCamp) | [Link](https://www.freecodecamp.org/learn/)
+| Day 8 | Scientific Computing With Python Day 2 | [Link](https://www.freecodecamp.org/learn/)
