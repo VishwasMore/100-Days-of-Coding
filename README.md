@@ -12,3 +12,4 @@
 | Day 8 | Scientific Computing With Python Day 2 | [Link](https://www.freecodecamp.org/learn/)
 | Day 9 | Scientific Computing With Python Day 3 | [Link](https://www.freecodecamp.org/learn/)
 | Day 10 | Scientific Computing With Python Day 4 | [Link](https://www.freecodecamp.org/learn/)
+| Day 11 | Building Portfolio Website |
