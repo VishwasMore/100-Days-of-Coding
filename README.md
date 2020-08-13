@@ -14,3 +14,4 @@
 | Day 10 | Scientific Computing With Python Day 4 | [Link](https://www.freecodecamp.org/learn/)
 | Day 11 | Building Portfolio Website |
 | Day 12 | Building Portfolio Website Day 2|
+| Day 13 | Building Portfolio Website Day 3|
