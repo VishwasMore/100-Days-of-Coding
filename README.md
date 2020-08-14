@@ -15,3 +15,4 @@
 | Day 11 | Building Portfolio Website |
 | Day 12 | Building Portfolio Website Day 2|
 | Day 13 | Building Portfolio Website Day 3|
+| Day 14 | Exploratory Data Analysis | [Link](https://github.com/VishwasMore/Exploratory-Data-Analysis)
