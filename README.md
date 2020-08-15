@@ -16,3 +16,4 @@
 | Day 12 | Building Portfolio Website Day 2|
 | Day 13 | Building Portfolio Website Day 3|
 | Day 14 | Exploratory Data Analysis | [Link](https://github.com/VishwasMore/Exploratory-Data-Analysis)
+| Day 15 | EDA on Black Friday Data | [Link](https://github.com/VishwasMore/Exploratory-Data-Analysis)
