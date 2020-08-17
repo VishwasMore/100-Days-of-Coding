@@ -18,3 +18,4 @@
 | Day 14 | Bike Rentals EDA | [Link](https://github.com/VishwasMore/Exploratory-Data-Analysis)
 | Day 15 | Black Friday Data EDA | [Link](https://github.com/VishwasMore/Exploratory-Data-Analysis)
 | Day 16 | Diabetes Prediction with EDA |[Notebook](https://github.com/VishwasMore/Diabetes-Prediction/blob/master/diabetes-prediction-with-EDA.ipynb)
+| Day 17 | Fitbit Data Analysis | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/fitbit-EDA.ipynb)
