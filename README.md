@@ -1,6 +1,6 @@
 # 100-Days-of-Coding
 
-| Days  | Task | Third Header |
+| Days  | Task | Links |
 | ------------- | ------------- | ------------ |
 | Day 1  | Python Data Structures Practice   | [Notebook](https://github.com/VishwasMore/100-Days-of-Coding/tree/master/Day%201)
 | Day 2  | Advanced Python Concepts | [Notebook](https://github.com/VishwasMore/100-Days-of-Coding/blob/master/Day%202/advance-python.ipynb)
@@ -19,3 +19,4 @@
 | Day 15 | Black Friday Data EDA | [Link](https://github.com/VishwasMore/Exploratory-Data-Analysis)
 | Day 16 | Diabetes Prediction with EDA |[Notebook](https://github.com/VishwasMore/Diabetes-Prediction/blob/master/diabetes-prediction-with-EDA.ipynb)
 | Day 17 | Fitbit Data Analysis | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/fitbit-EDA.ipynb)
+| Day 18 | Human Resource Attrition Predicition | [Notebook](https://github.com/VishwasMore/HR-Data-Analysis-and-Prediction/blob/master/HR-Analysis-Prediction-Visualization.ipynb)
