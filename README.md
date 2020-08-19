@@ -20,3 +20,4 @@
 | Day 16 | Diabetes Prediction with EDA |[Notebook](https://github.com/VishwasMore/Diabetes-Prediction/blob/master/diabetes-prediction-with-EDA.ipynb)
 | Day 17 | Fitbit Data Analysis | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/fitbit-EDA.ipynb)
 | Day 18 | Human Resource Attrition Predicition | [Notebook](https://github.com/VishwasMore/HR-Data-Analysis-and-Prediction/blob/master/HR-Analysis-Prediction-Visualization.ipynb)
+| Day 19 | Income of Employees EDA | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/Income-Prediction.ipynb)
