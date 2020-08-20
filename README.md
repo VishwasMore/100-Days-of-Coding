@@ -21,3 +21,4 @@
 | Day 17 | Fitbit Data Analysis | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/fitbit-EDA.ipynb)
 | Day 18 | Human Resource Attrition Predicition | [Notebook](https://github.com/VishwasMore/HR-Data-Analysis-and-Prediction/blob/master/HR-Analysis-Prediction-Visualization.ipynb)
 | Day 19 | Income of Employees EDA | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/Income-Prediction.ipynb)
+| Day 20 | Cristiano Ronaldo Data Analysis | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/CristianoRonaldo.ipynb)
