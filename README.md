@@ -24,3 +24,4 @@
 | Day 20 | Cristiano Ronaldo Data Analysis | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/CristianoRonaldo.ipynb)
 | Day 21 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 | Day 22 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
+| Day 23 | Forest Fires EDA | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/forest-fires-EDA.ipynb)
