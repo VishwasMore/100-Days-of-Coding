@@ -25,4 +25,5 @@
 | Day 21 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 | Day 22 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 | Day 23 | Forest Fires EDA | [Notebook](https://github.com/VishwasMore/Exploratory-Data-Analysis/blob/master/forest-fires-EDA.ipynb)
-| Day 24 | Face Recognisition with OpenCV | [Course](https://www.superdatascience.com/courses/computer-vision-z-learn-opencv-gans-cutting-edge-ai)
+| Day 24 | Face Recognisition with OpenCV | [Code](https://github.com/VishwasMore/face-detection-opencv)
+| Day 25 | Object Detection with SSD | 
