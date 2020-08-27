@@ -28,3 +28,4 @@
 | Day 24 | Face Recognisition with OpenCV | [Code](https://github.com/VishwasMore/face-detection-opencv)
 | Day 25 | Object Detection with SSD | [Code](https://github.com/VishwasMore/object-detection-SSD)
 | Day 26 | Image Generation with GAN | [Course](https://www.superdatascience.com/courses/computer-vision-z-learn-opencv-gans-cutting-edge-ai)
+| Day 27 | Anime Data EDA | [Notebook](https://www.kaggle.com/tanetboss/user-clustering-for-anime-recommendation)
