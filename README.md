@@ -30,3 +30,4 @@
 | Day 26 | Image Generation with GAN | [Course](https://www.superdatascience.com/courses/computer-vision-z-learn-opencv-gans-cutting-edge-ai)
 | Day 27 | Anime Data EDA | [Notebook](https://www.kaggle.com/tanetboss/user-clustering-for-anime-recommendation)
 | Day 28 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
+| Day 29 | Cancer Detection |
