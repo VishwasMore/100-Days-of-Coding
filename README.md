@@ -33,3 +33,4 @@
 | Day 29 | Cancer Detection |
 | Day 30 | Object Detection Tensorflow Hub | [Notebook](https://www.tensorflow.org/hub/tutorials/tf2_object_detection)
 | Day 31 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
+| Day 32 | Hand Detection with faster RCNN | 
