@@ -35,3 +35,4 @@
 | Day 31 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 | Day 32 | Hand Detection with faster RCNN | 
 | Day 33 | JavaScript Revision | 
+| Day 34 | JDOM Manipulation and Advanced JS Revision | 
