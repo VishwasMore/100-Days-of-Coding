@@ -36,3 +36,4 @@
 | Day 32 | Hand Detection with faster RCNN | 
 | Day 33 | JavaScript Revision | 
 | Day 34 | JDOM Manipulation and Advanced JS Revision | 
+| Day 35 | Liver Disease Detection | 
