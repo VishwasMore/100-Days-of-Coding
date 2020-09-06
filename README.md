@@ -30,10 +30,11 @@
 | Day 26 | Image Generation with GAN | [Course](https://www.superdatascience.com/courses/computer-vision-z-learn-opencv-gans-cutting-edge-ai)
 | Day 27 | Anime Data EDA | [Notebook](https://www.kaggle.com/tanetboss/user-clustering-for-anime-recommendation)
 | Day 28 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
-| Day 29 | Cancer Detection |
+| Day 29 | Cancer Detection |[Notebook](https://github.com/VishwasMore/Health-App)
 | Day 30 | Object Detection Tensorflow Hub | [Notebook](https://www.tensorflow.org/hub/tutorials/tf2_object_detection)
 | Day 31 | Python for Data Analysis Book | [Book](https://www.oreilly.com/library/view/python-for-data/9781449323592/)
 | Day 32 | Hand Detection with faster RCNN | 
 | Day 33 | JavaScript Revision | 
 | Day 34 | JDOM Manipulation and Advanced JS Revision | 
-| Day 35 | Liver Disease Detection | 
+| Day 35 | Liver Disease Detection | [Notebook](https://github.com/VishwasMore/Health-App)
+| Day 36 | Kidney Disease Detection | [Notebook](https://github.com/VishwasMore/Health-App)
