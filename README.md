@@ -38,3 +38,4 @@
 | Day 34 | JDOM Manipulation and Advanced JS Revision | 
 | Day 35 | Liver Disease Detection | [Notebook](https://github.com/VishwasMore/Health-App)
 | Day 36 | Kidney Disease Detection | [Notebook](https://github.com/VishwasMore/Health-App)
+| Day 37 | Deep Learning Pneumonia X-Ray Detection | [Notebook](https://github.com/VishwasMore/Health-App)
