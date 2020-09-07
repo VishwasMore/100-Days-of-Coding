@@ -39,3 +39,4 @@
 | Day 35 | Liver Disease Detection | [Notebook](https://github.com/VishwasMore/Health-App)
 | Day 36 | Kidney Disease Detection | [Notebook](https://github.com/VishwasMore/Health-App)
 | Day 37 | Deep Learning Pneumonia X-Ray Detection | [Notebook](https://github.com/VishwasMore/Health-App)
+| Day 38 | React JS Revision |
