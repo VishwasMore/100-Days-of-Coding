@@ -43,3 +43,4 @@
 | Day 39 | React Redux |
 | Day 40 | HTTPS AJAX JSON API |
 | Day 41 | Smart Brain Project Front End | 
+| Day 42 | Node and Express JS Revision |
