@@ -46,3 +46,4 @@
 | Day 42 | Node and Express JS Revision |
 | Day 43 | SQL Fundamentals Revision |
 | Day 44 | SQL Deep Dive |
+| Day 45 | SQL Deep Dive Part 2 |
