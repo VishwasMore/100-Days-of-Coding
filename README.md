@@ -48,3 +48,4 @@
 | Day 44 | SQL Deep Dive |
 | Day 45 | SQL Deep Dive Part 2 |
 | Day 46 | Advanced SQL |
+| Dau 47 | Advanced SQL Day 2 |
