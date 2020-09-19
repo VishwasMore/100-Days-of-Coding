@@ -50,3 +50,4 @@
 | Day 46 | Advanced SQL |
 | Day 47 | Advanced SQL Day 2 |
 | Day 48 | Advanced SQL Day 3 |
+| Day 49 | Database Management |
