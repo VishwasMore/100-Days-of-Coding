@@ -56,3 +56,4 @@
 | Day 52 | Database Design |
 | Day 53 | Database Design Day 2 |
 | Day 54 | CRWN Clothing App Project |
+| Day 55 | CRWN Clothing App Project Day 2 |
