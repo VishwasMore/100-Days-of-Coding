@@ -57,3 +57,4 @@
 | Day 53 | Database Design Day 2 |
 | Day 54 | CRWN Clothing App Project |
 | Day 55 | CRWN Clothing App Project Day 2 |
+| Day 56 | Car Price Prediction with GUI | [Link](https://github.com/VishwasMore/car-price-prediction)
