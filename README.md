@@ -58,3 +58,4 @@
 | Day 54 | CRWN Clothing App Project |
 | Day 55 | CRWN Clothing App Project Day 2 |
 | Day 56 | Car Price Prediction with GUI | [Link](https://github.com/VishwasMore/car-price-prediction)
+| Day 57 | CRWN Clothing App Project Day 3 |
