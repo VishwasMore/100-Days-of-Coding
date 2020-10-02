@@ -60,3 +60,4 @@
 | Day 56 | Car Price Prediction with GUI | [Link](https://github.com/VishwasMore/car-price-prediction)
 | Day 57 | CRWN Clothing App Project Day 3 |
 | Day 58 | CRWN Clothing App Project Day 4 |
+| Day 59 | Tensorflow Revision |
