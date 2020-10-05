@@ -61,3 +61,4 @@
 | Day 57 | CRWN Clothing App Project Day 3 |
 | Day 58 | CRWN Clothing App Project Day 4 |
 | Day 59 | Tensorflow Revision |
+| Day 60 | Plaigrism Detector |
