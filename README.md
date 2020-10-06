@@ -62,3 +62,4 @@
 | Day 58 | CRWN Clothing App Project Day 4 |
 | Day 59 | Tensorflow Revision |
 | Day 60 | Plaigrism Detector |
+| Day 61 | Parts of Speech Tagging | [Notebook](https://github.com/VishwasMore/parts-of-speech-tagging)
