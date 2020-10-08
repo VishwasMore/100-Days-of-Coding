@@ -64,3 +64,4 @@
 | Day 60 | Plaigrism Detector |
 | Day 61 | Parts of Speech Tagging | [Notebook](https://github.com/VishwasMore/parts-of-speech-tagging)
 | Day 62 | Topic Modelling using LDA | 
+| Day 63 | Machine Translation English-French | [Notebook](https://github.com/VishwasMore/machine-translation)
