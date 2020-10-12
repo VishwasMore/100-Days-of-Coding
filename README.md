@@ -66,3 +66,4 @@
 | Day 62 | Topic Modelling using LDA | 
 | Day 63 | Machine Translation English-French | [Notebook](https://github.com/VishwasMore/machine-translation)
 | Day 64 | Speech Recognistion with Deep Neural Network |
+| Day 65 | Speech Recognistion with Deep Neural Network Day 2 |
