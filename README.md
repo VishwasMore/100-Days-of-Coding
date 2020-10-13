@@ -67,3 +67,4 @@
 | Day 63 | Machine Translation English-French | [Notebook](https://github.com/VishwasMore/machine-translation)
 | Day 64 | Speech Recognistion with Deep Neural Network |
 | Day 65 | Speech Recognistion with Deep Neural Network Day 2 |
+| Day 66 | Diabetes Prediction with PyTorch and ANN | [Notebook](https://github.com/VishwasMore/Diabetes-Prediction/blob/master/ANN_Model.ipynb)
