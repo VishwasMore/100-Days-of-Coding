@@ -70,3 +70,4 @@
 | Day 66 | Diabetes Prediction with PyTorch and ANN | [Notebook](https://github.com/VishwasMore/Diabetes-Prediction/blob/master/ANN_Model.ipynb)
 | Day 67 | House Price Prediction with ANN | 
 | Day 68 | Stock Market Data analysis and visualization | [Notebook](https://github.com/VishwasMore/Stock-Market/blob/main/analysis-and-visualization.ipynb)
+| Day 69 | NLP Textblob Library |
