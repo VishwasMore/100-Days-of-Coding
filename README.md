@@ -72,3 +72,4 @@
 | Day 68 | Stock Market Data analysis and visualization | [Notebook](https://github.com/VishwasMore/Stock-Market/blob/main/analysis-and-visualization.ipynb)
 | Day 69 | NLP Textblob Library |
 | Day 70 | SpaCy Library |
+| Day 71 | Stanford NLP Library exploration |
