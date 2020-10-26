@@ -73,3 +73,5 @@
 | Day 69 | NLP Textblob Library |
 | Day 70 | SpaCy Library |
 | Day 71 | Stanford NLP Library exploration |
+| Day 72 | Image Representation & Classification in Computer Vision |
+| Day 73 | Day and Night Image Classifier |
