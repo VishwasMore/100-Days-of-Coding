@@ -75,3 +75,4 @@
 | Day 71 | Stanford NLP Library exploration |
 | Day 72 | Image Representation & Classification in Computer Vision |
 | Day 73 | Day and Night Image Classifier |
+| Day 74 | React Hooks Concepts |
