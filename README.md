@@ -78,3 +78,4 @@
 | Day 74 | React Hooks Concepts |
 | Day 75 | React Context API Concepts |
 | Day 76 | Edge Detection in Computer Vision |
+| Day 77 | Image Segmentation in Computer Vision |
