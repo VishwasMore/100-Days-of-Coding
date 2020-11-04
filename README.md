@@ -80,3 +80,5 @@
 | Day 76 | Edge Detection in Computer Vision |
 | Day 77 | Image Segmentation in Computer Vision |
 | Day 78 | Localization and Classification in Computer Vision |
+| Day 79 | Face Keypoint Detection Project |
+| Day 80 | Face Keypoint Detection Project Day 2|
