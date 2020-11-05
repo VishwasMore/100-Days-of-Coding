@@ -82,3 +82,4 @@
 | Day 78 | Localization and Classification in Computer Vision |
 | Day 79 | Face Keypoint Detection Project |
 | Day 80 | Face Keypoint Detection Project Day 2|
+| Day 81 | CS50 Introduction to AI : Search | [Link](https://cs50.harvard.edu/ai/2020/weeks/0/)
