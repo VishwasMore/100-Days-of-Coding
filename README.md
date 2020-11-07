@@ -83,3 +83,4 @@
 | Day 79 | Face Keypoint Detection Project |
 | Day 80 | Face Keypoint Detection Project Day 2|
 | Day 81 | CS50 Introduction to AI : Search | [Link](https://cs50.harvard.edu/ai/2020/weeks/0/)
+| Day 82 | CS50 Introduction to AI : Knowledge | [Link](https://cs50.harvard.edu/ai/2020/weeks/1/)
