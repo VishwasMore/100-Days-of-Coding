@@ -86,3 +86,4 @@
 | Day 82 | CS50 Introduction to AI : Knowledge | [Link](https://cs50.harvard.edu/ai/2020/weeks/1/)
 | Day 83 | Object Detection with TFOD |
 | Day 84 | CS50 Introduction to AI : Uncertainty | [Link](https://cs50.harvard.edu/ai/2020/weeks/2/)
+| Day 85 | Chest X-Ray Pneumonia Detection | 
