@@ -91,3 +91,4 @@
 | Day 87 | Alzheimer MRI Detection |
 | Day 88 | CS50 Introduction to AI : Learning | [Link](https://cs50.harvard.edu/ai/2020/weeks/4/)
 | Day 89 | Snake Game Python | [Link](https://github.com/VishwasMore/snake-game)
+| Day 90 | CS50 Introduction to AI : Neural Networks | [Link](https://cs50.harvard.edu/ai/2020/weeks/5/)
