@@ -94,3 +94,4 @@
 | Day 90 | CS50 Introduction to AI : Neural Networks | [Link](https://cs50.harvard.edu/ai/2020/weeks/5/)
 | Day 91 | Python Tkinter Library |
 | Day 92 | NLP Practical Tutorial | [Notebook](https://github.com/graykode/nlp-tutorial)
+| Day 93 | NLP Practical Tutorial | [Notebook](https://github.com/graykode/nlp-tutorial)
