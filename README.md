@@ -95,3 +95,4 @@
 | Day 91 | Python Tkinter Library |
 | Day 92 | NLP Practical Tutorial | [Notebook](https://github.com/graykode/nlp-tutorial)
 | Day 93 | NLP Practical Tutorial | [Notebook](https://github.com/graykode/nlp-tutorial)
+| Day 94 | Design and Build Chatbot | [Link](https://youtu.be/ImzRs8eORsM)
