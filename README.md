@@ -96,3 +96,4 @@
 | Day 92 | NLP Practical Tutorial | [Notebook](https://github.com/graykode/nlp-tutorial)
 | Day 93 | NLP Practical Tutorial | [Notebook](https://github.com/graykode/nlp-tutorial)
 | Day 94 | Design and Build Chatbot | [Link](https://youtu.be/ImzRs8eORsM)
+| Day 95 | Design and Build Chatbot Part 2| [Link](https://www.youtube.com/watch?v=jcJgCcgg24c&t=6178s)
